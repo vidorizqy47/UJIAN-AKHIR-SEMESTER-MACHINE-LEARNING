@@ -14,4 +14,4 @@ https://www.kaggle.com/vidorizqy/uas-2-a
 https://www.kaggle.com/vidorizqy/uas-2-b 
 https://www.kaggle.com/vidorizqy/uas-2-c
 }
-SourceCode: https://github.com/wiragans/UAS_MACHINE_LEARNING_17.01.53.0053_WIRA-DWI-SUSANTO
+
